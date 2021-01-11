@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  DataStructuresProject.cpp
+  DequeMenu.cpp
+  DynamicArrayMenu.cpp
+  HashCodes.cpp
+HashCodes.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+HashCodes.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  HashingMenu.cpp
+  LinkedListMenu.cpp
+  QueueMenu.cpp
+  StackMenu.cpp
+  Generating code
+  All 757 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DataStructuresProject.vcxproj -> C:\Users\Nizzle\source\repos\DataStructuresProject\Release\DataStructuresProject.exe
